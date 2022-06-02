@@ -1,4 +1,4 @@
-# cit281-lab1</br>
+# cit-lab1</br>
 
 Lab goals and outcomes:</br>
 
